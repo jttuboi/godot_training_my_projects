@@ -4,7 +4,7 @@ My folder for small projects to learn and create the Godot engine
 
 ## Time System
 
-Godot 3.3.4
-gdUnit3 1.0.6 - for unit tests
+- Godot 3.3.4
+- gdUnit3 1.0.6 - for unit tests
 
 This project simulates a system to control time like as farm game simulation.
