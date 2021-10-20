@@ -1,0 +1,12 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://src/time_data.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+year = 0
+season = 0
+weekday = 0
+day = 1
+hour = 7
+minute = 3

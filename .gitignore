@@ -1,6 +1,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,godot
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,godot
 
+addons/
+GdUnitRunner.cfg
+runtest.cmd
+runtest.sh
+
+
 ### Godot ###
 # Godot-specific ignores
 .import/
